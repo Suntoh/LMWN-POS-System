@@ -1,16 +1,16 @@
 # POS-System
 
 A Point of Sale (POS) system.
+![image](demo.png)
 
 ## Features
 
 - Track sales reports
   - Total Sales of Today, Last Month, and All
   - Total Discount of Today, Last Month, and All
-  - Comprison of Current Month Sales with Last Month Sales
+  - Comparison of Current Month Sales with Last Month Sales
   - Pie Chart of sales per category
-- Process sales transactions
-- Add new orders
+- Process sales transactions (add new order)
 - Pay order (change status)
 - Generate receipts
 
