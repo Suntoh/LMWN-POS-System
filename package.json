@@ -1,5 +1,5 @@
 {
-  "name": "POS-System",
+  "name": "pos-system",
   "private": true,
   "scripts": {
     "build": "turbo run build",
